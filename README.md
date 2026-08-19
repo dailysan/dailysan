@@ -139,12 +139,12 @@ Architecture Microservices · Modular Architecture · Scalable APIs
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=dailysan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-stats-extended.vercel.app/api?username=dailysan&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
     alt="Daily's GitHub stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailysan&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dailysan&layout=compact&theme=github_dark&hide_border=true"
     alt="Daily's most used languages"
   />
 </p>
