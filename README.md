@@ -51,28 +51,44 @@ Built with a modern web architecture using NestJS and MongoDB, with containerize
 ---
 
 ## 🔨 Currently Building
+  
 
 ### ☕ Coffee For A Change
 
-A complete operations platform for a coffee business, covering the full lifecycle from green coffee inventory to roasting, production, packaging, customers, orders, finance, and delivery.
+A family-driven coffee project and a real-world software platform I am building to manage and monitor our coffee operation from the farm to the final consumer.
 
-The ecosystem includes Web, Mobile, API services, real-time roasting integrations, notifications, analytics, and internal business tools.
+The platform is designed around the actual needs, workflows, and day-to-day operations of our family coffee farm, providing visibility and traceability across the entire coffee lifecycle, including inventory, roasting, production, packaging, customers, orders, sales, finance, and delivery.
+
+Coffee For A Change includes a **web application and native mobile experiences for both iOS and Android**, allowing the operation to be managed from different environments depending on the needs of each user and stage of the process.
+
+Rather than being a generic management system, the platform evolves alongside the coffee operation itself. Features are designed and validated against real production workflows, operational requirements, and business needs from our own farm.
+
+The backend and production infrastructure are deployed on **Hetzner**, giving me full control over the application environment, services, databases, and deployment architecture.
 
 **Tech**
 
-`React` `Next.js` `React Native` `Expo` `TypeScript` `NestJS` `MongoDB` `Redis`
+`React` `Next.js` `React Native` `TypeScript` `NestJS` `MongoDB` `Redis` `Hetzner` `iOS` `Android`
+
+
 
 ---
 
 ### 🏡 HomeOS
 
-A collaborative platform for organizing the things people share.
+An open-source collaborative platform originally created to help my family organize the things we manage together, including recurring expenses, shared budgets, travel planning, tasks, shopping, goals, documents, and everyday responsibilities.
 
-HomeOS allows users to create shared Spaces for homes, trips, businesses, families, and other parts of everyday life, combining expenses, payments, budgets, goals, tasks, shopping, calendars, documents, and activity in one place.
+The idea started as a private solution for my own family, but evolved into a more flexible platform where anyone can create their own **Spaces** for homes, trips, families, businesses, or other shared activities.
+
+Spaces can be shared through invitation links, allowing other users to register, join, and collaborate inside the app while keeping each Space independent and organized.
+
+HomeOS is being designed as a reusable and extensible platform rather than a solution tied only to my personal use, with the goal of making shared planning and organization easier for any group of people.
+
+The project will be released as **open source**, allowing other developers to explore, contribute to, extend, and adapt the platform for their own needs.
 
 **Tech**
 
-`React Native` `Expo` `TypeScript` `NestJS` `MongoDB` `Redis` `TanStack Query` `Zustand`
+`React Native` `TypeScript` `NestJS` `MongoDB` `Redis` `TanStack Query` `Zustand` `Hetzner` `iOS` `Android`
+
 
 ---
 
